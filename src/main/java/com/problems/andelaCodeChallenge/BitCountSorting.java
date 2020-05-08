@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.problems.andelaCodeChallenge;
 
 import java.util.ArrayList;
 import java.util.List;

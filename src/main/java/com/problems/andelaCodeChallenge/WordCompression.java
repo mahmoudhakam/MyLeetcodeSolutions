@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.problems.andelaCodeChallenge;
 
 public class WordCompression
 {
